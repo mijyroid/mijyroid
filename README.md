@@ -33,7 +33,7 @@ Software Engineering student at The University of Texas at Dallas (B.S. '27, fas
 |---|---|---|
 | [**DFR Finance Dashboard**](https://github.com/mijyroid/DFRFinanceDashboard) | Finance portal for Dallas Formula Racing: budgets, POs, sponsorships and donations across 4 subteams, with planned-vs-actual spending charts and role-based access | Next.js, React, Supabase, Recharts |
 | [**Toyota Car Finder**](https://github.com/mijyroid/HackUTD-toyota-app) | HackUTD (Toyota track) web app to search, filter, compare and estimate payments on Toyota vehicles | React, Vite, Tailwind |
-| [**Bank Account Sim**](https://github.com/mijyroid/Bank-Account-Simulation) | Command-line C++ banking program with multi-owner accounts, deposits/withdrawals, and co-owner management | C++ |
+| [**Bank Account Simulation**](https://github.com/mijyroid/Bank-Account-Simulation) | Command-line C++ banking program with multi-owner accounts, deposits/withdrawals, and co-owner management | C++ |
 
 ## 📫 Currently
 
