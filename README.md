@@ -25,7 +25,7 @@ Software Engineering student at The University of Texas at Dallas (B.S. '27, fas
 
 ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijyroid&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijyroid&layout=compact&langs_count=6&theme=transparent&hide_border=true&hide_title=true" alt="Most used languages" />
 
 ## 🚀 Featured Projects
 
