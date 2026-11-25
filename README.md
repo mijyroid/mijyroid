@@ -23,6 +23,10 @@ Software Engineering student at The University of Texas at Dallas (B.S. '27, fas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijyroid&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Most used languages" />
+
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
