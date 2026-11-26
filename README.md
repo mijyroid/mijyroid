@@ -41,4 +41,4 @@ Software Engineering student at The University of Texas at Dallas (B.S. '27, fas
 
 ## Currently
 
-- Working on: PhishLens, making it easier for non-technical users to check suspicious emails
+- Working on: PhishLens for non-technical users; Bank Simulation upgrade
