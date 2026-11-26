@@ -1,4 +1,4 @@
-# Hi, I'm Joyce 🪽
+# Hi, I'm Joyce 💫
 
 Software Engineering student at The University of Texas at Dallas (B.S. '27, fast-track M.S. in Systems Engineering). I'm currently the Advising Director for WEHack, UTD's Women in Engineering Hackathon, and a software developer for Dallas Formula Racing.
 
